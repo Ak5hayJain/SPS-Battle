@@ -1,6 +1,6 @@
 # ✊🖐✌️ SPS-Battle
 
-A fun and interactive **Stone-Paper-Scissors** game built with **HTML**, **CSS**, and **JavaScript**. Challenge the computer and see who wins — the logic is simple but addictive!
+A fun and interactive **Stone-Paper-Scissors** game built with **HTML**, **CSS**, and **JavaScript**. Challenge the computer and see who wins — the logic is simple but addictive! This is an improved version of a simpler Stone-Paper-Scissors game I created earlier, enhanced to include computer choice display and refined UI.
 
 ## 🎮 How to Play
 
